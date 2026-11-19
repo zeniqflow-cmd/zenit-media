@@ -1,0 +1,79 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="1000" viewBox="0 0 600 1000">
+<defs>
+<linearGradient id="skin" x1="0" x2="1"><stop offset="0" stop-color="#E9B88E"/><stop offset="1" stop-color="#D49C72"/></linearGradient>
+<linearGradient id="toga" x1="0" x2="1"><stop offset="0" stop-color="#FBF8F1"/><stop offset="1" stop-color="#E4DDCC"/></linearGradient>
+</defs>
+<!-- ground shadow -->
+<ellipse cx="300" cy="955" rx="150" ry="18" fill="#000" opacity="0.15"/>
+<!-- legs -->
+<path d="M255 740 C245 800 250 860 262 930 L292 930 C298 860 300 800 296 740 Z" fill="url(#skin)"/>
+<path d="M305 740 C302 800 304 860 310 930 L340 930 C352 860 356 800 346 740 Z" fill="url(#skin)"/>
+<path d="M262 840 C270 860 282 860 290 845" stroke="#B9805A" stroke-width="4" fill="none"/>
+<path d="M312 845 C320 860 332 860 340 840" stroke="#B9805A" stroke-width="4" fill="none"/>
+<!-- sandals -->
+<path d="M250 930 L300 930 L302 948 L246 948 Z" fill="#7A4E2D"/>
+<path d="M306 930 L356 930 L360 948 L304 948 Z" fill="#7A4E2D"/>
+<path d="M260 905 L292 915 M262 885 L294 893 M310 915 L342 905 M308 893 L340 885" stroke="#7A4E2D" stroke-width="6"/>
+<!-- right arm (viewer right) on hip -->
+<path d="M395 300 C440 320 452 380 440 440 C432 480 412 500 380 505 L370 480 C395 470 405 450 410 420 C415 385 400 350 380 335 Z" fill="url(#skin)"/>
+<!-- torso skin -->
+<path d="M200 300 C230 285 370 285 400 300 C410 360 395 450 365 560 L235 560 C205 450 190 360 200 300 Z" fill="url(#skin)"/>
+<!-- pecs and abs on visible left side -->
+<path d="M215 345 C240 380 280 382 298 360" stroke="#B9805A" stroke-width="5" fill="none"/>
+<path d="M250 420 L290 420 M252 460 L290 460 M256 500 L290 500 M290 395 L290 540" stroke="#B9805A" stroke-width="4" fill="none" opacity="0.8"/>
+<!-- toga over left shoulder (viewer right) diagonally -->
+<path d="M300 300 C340 285 390 288 410 305 C425 360 405 450 385 560 L215 560 C230 520 255 470 300 420 C330 385 330 340 300 300 Z" fill="url(#toga)"/>
+<path d="M300 300 C330 340 330 385 300 420 C255 470 230 520 215 560" stroke="#C9A44C" stroke-width="10" fill="none"/>
+<path d="M340 330 C350 400 330 470 300 540 M370 320 C385 400 370 480 350 555" stroke="#D2C8B2" stroke-width="5" fill="none"/>
+<!-- belt -->
+<rect x="225" y="548" width="160" height="22" rx="8" fill="#1F2A44"/>
+<circle cx="305" cy="559" r="13" fill="#C9A44C"/>
+<!-- toga skirt -->
+<path d="M222 568 L388 568 C400 640 405 700 400 760 L200 760 C196 700 205 640 222 568 Z" fill="url(#toga)"/>
+<path d="M200 760 L400 760" stroke="#C9A44C" stroke-width="12"/>
+<path d="M255 580 C250 650 245 700 240 755 M300 580 L300 755 M345 580 C350 650 355 700 360 755" stroke="#D2C8B2" stroke-width="5" fill="none"/>
+<!-- left arm (viewer left) flexed holding book -->
+<path d="M205 302 C165 310 140 345 138 395 C136 430 150 450 170 452 C190 454 198 440 196 420 C192 390 196 360 215 340 Z" fill="url(#skin)"/>
+<path d="M150 400 C160 380 180 372 196 378" stroke="#B9805A" stroke-width="4" fill="none"/>
+<ellipse cx="200" cy="320" rx="34" ry="30" fill="#E2AE84"/><ellipse cx="165" cy="410" rx="30" ry="40" fill="#E2AE84"/>
+<!-- forearm up -->
+<path d="M150 445 C135 420 128 380 135 330 L170 325 C168 370 172 405 185 435 Z" fill="url(#skin)"/>
+<!-- book -->
+<g transform="rotate(-10 150 300)">
+<rect x="95" y="230" width="120" height="95" rx="6" fill="#B23A48" stroke="#F5F1E8" stroke-width="3"/>
+<rect x="95" y="230" width="14" height="95" fill="#8E2C38"/>
+<circle cx="160" cy="277" r="22" fill="none" stroke="#C9A44C" stroke-width="5"/>
+<text x="160" y="286" font-family="DejaVu Serif" font-weight="bold" font-size="26" fill="#C9A44C" text-anchor="middle">€</text>
+<rect x="212" y="234" width="6" height="88" fill="#F5F1E8"/>
+</g>
+<!-- hand on book -->
+<ellipse cx="145" cy="330" rx="22" ry="18" fill="url(#skin)"/>
+<!-- neck -->
+<path d="M278 245 L322 245 L326 300 L274 300 Z" fill="#D49C72"/>
+<!-- head -->
+<ellipse cx="300" cy="190" rx="60" ry="70" fill="url(#skin)"/>
+<!-- ears -->
+<ellipse cx="240" cy="195" rx="10" ry="16" fill="#D49C72"/><ellipse cx="360" cy="195" rx="10" ry="16" fill="#D49C72"/>
+<!-- hair curls -->
+<g fill="#3B2A20">
+<circle cx="250" cy="150" r="22"/><circle cx="272" cy="128" r="24"/><circle cx="300" cy="120" r="25"/><circle cx="328" cy="128" r="24"/><circle cx="350" cy="150" r="22"/><circle cx="243" cy="175" r="14"/><circle cx="357" cy="175" r="14"/>
+</g>
+<!-- beard -->
+<path d="M242 200 C245 260 275 285 300 285 C325 285 355 260 358 200 C345 230 330 238 300 238 C270 238 255 230 242 200 Z" fill="#3B2A20"/>
+<path d="M282 250 C292 258 308 258 318 250" stroke="#F5F1E8" stroke-width="5" fill="none" stroke-linecap="round"/>
+<!-- eyes and brows -->
+<ellipse cx="278" cy="190" rx="7" ry="8" fill="#1F2A44"/><ellipse cx="322" cy="190" rx="7" ry="8" fill="#1F2A44"/>
+<circle cx="280" cy="187" r="2.5" fill="#fff"/><circle cx="324" cy="187" r="2.5" fill="#fff"/>
+<path d="M262 172 L292 168 M308 168 L338 172" stroke="#3B2A20" stroke-width="7" stroke-linecap="round"/>
+<path d="M298 200 C295 215 296 222 304 222" stroke="#B9805A" stroke-width="4" fill="none"/>
+<!-- laurel wreath -->
+<g fill="#8FA998">
+<ellipse cx="248" cy="140" rx="16" ry="7" transform="rotate(-50 248 140)"/>
+<ellipse cx="265" cy="122" rx="16" ry="7" transform="rotate(-30 265 122)"/>
+<ellipse cx="285" cy="110" rx="16" ry="7" transform="rotate(-10 285 110)"/>
+<ellipse cx="315" cy="110" rx="16" ry="7" transform="rotate(10 315 110)"/>
+<ellipse cx="335" cy="122" rx="16" ry="7" transform="rotate(30 335 122)"/>
+<ellipse cx="352" cy="140" rx="16" ry="7" transform="rotate(50 352 140)"/>
+</g>
+<circle cx="300" cy="106" r="7" fill="#C9A44C"/>
+</svg>
