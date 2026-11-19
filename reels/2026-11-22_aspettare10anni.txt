@@ -1,0 +1,18 @@
+REEL 22/11/2026 – "Aspettare 10 anni ti costa 140.000 €"
+Voce: Zenone (Kokoro-82M, voce im_nicola, Apache 2.0) – durata 25,2 s – 1080x1920, 30 fps
+
+COPIONE (parlato -> sottotitolo a schermo)
+00,0 s  Aspettare dieci anni ti costa centoquarantamila euro.      -> ASPETTARE 10 ANNI TI COSTA 140.000 €
+~3,4 s  Non ci credi? Due amici, cento euro al mese, sette per cento l'anno.
+~7,9 s  Marco inizia a ventidue anni. Luca a trentadue.
+~11,1 s A sessantadue anni, Marco ha circa duecentosessantaduemila euro. Luca, centoventiduemila.
+~16,5 s Luca ha versato solo dodicimila euro in meno. La differenza la fa il tempo.
+~20,8 s Segui la pagina: ogni settimana un conto che nessuno ti fa.
+
+NUMERI (ricalcolati in Python: 100 €/mese, 7% annuo composto mensilmente, versamento a fine mese)
+Marco 22->62 anni, 480 mesi: 262.481 € (versati 48.000 €, interessi 214.481 €)
+Luca  32->62 anni, 360 mesi: 121.997 € (versati 36.000 €, interessi 85.997 €)
+Differenza: 140.484 € – Luca versa 12.000 € in meno
+
+DISCLAIMER A SCHERMO
+Rendimenti ipotetici e costanti, al lordo di tasse e costi. Non è consulenza finanziaria.
