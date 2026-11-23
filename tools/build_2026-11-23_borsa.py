@@ -15,9 +15,9 @@ def src_dark(im, t):
 N = 8
 s = []
 s.append(src_dark(slide_hook("Mercati · novembre 2026",
-    "La borsa crolla. Vendo il mio PAC?",
-    "Il Nasdaq è sceso di oltre il 10% dai massimi di ottobre. Prima di toccare qualcosa, leggi qui.", 0, N),
-    "Fonte: OraFinanza, 6/11/2026"))
+    "Borsa sulle montagne russe. Vendo il mio PAC?",
+    "Il 5 novembre il Nasdaq ha perso il 4,9% in un giorno. Oggi il tech è tornato a correre. Prima di toccare qualcosa, leggi qui.", 0, N),
+    "Fonte: Milano Finanza, 5/11 e 23/11/2026"))
 s.append(src(slide("È normale",
     "Succede quasi ogni anno",
     "Dal 1980 la borsa americana (S&P 500) ha avuto in media un calo del 14,2% in qualche momento dell'anno.",
