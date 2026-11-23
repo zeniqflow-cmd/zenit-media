@@ -1,0 +1,9 @@
+Testi per la sintesi vocale di Instagram (una casella di testo per riga, all'orario indicato):
+0,0 s  - Due amici. Stessi soldi. Stesso mercato.
+3,5 s  - Marco investe in banca: costi del 2,2% l'anno.
+7,0 s  - Luca compra un ETF: costi dello 0,2%.
+10,5 s - Duecento euro al mese, per trent'anni.
+16,0 s - Luca ha 188 mila euro. Marco solo 132 mila.
+19,5 s - 55 mila euro persi tra commissioni e interessi mancati.
+23,5 s - Il 2% sembra poco. Su trent'anni ti costa quasi un terzo dei tuoi soldi.
+27,5 s - Controlla il TER del tuo fondo.
