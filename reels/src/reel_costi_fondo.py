@@ -88,7 +88,7 @@ def tag(d,x,y,t,strong=False):
     d.text((x,y),t,font=f,fill=(10,10,10) if strong else WH,anchor="mm")
 def coin(d,x,y,r=26):
     d.ellipse([x-r,y-r,x+r,y+r],outline=WH,width=5); d.text((x,y),"€",font=P("Bold",int(r*1.2)),fill=WH,anchor="mm")
-MX,LX,FY=300,780,1180
+MX,LX,FY=300,780,1080
 def frame(t):
     im=BG.copy(); d=ImageDraw.Draw(im)
     # 1. presentazione
@@ -125,7 +125,7 @@ def frame(t):
         monitor(d,MX,620,400,230,"MARCO",eur(132446),62); monitor(d,LX,620,400,230,"LUCA",eur(188012),62)
         figure(d,MX,FY,mood="sad",t=t); cloud(d,MX,FY-320,t)
         figure(d,LX,FY,mood="happy",t=t); sparkle(d,LX,FY-150,t)
-        spaced(d,(W/2,1430),"HANNO VERSATO ENTRAMBI 72.000 €",P("Bold",34),WH,0.06)
+        spaced(d,(W/2,1240),"HANNO VERSATO ENTRAMBI 72.000 €",P("Bold",34),WH,0.06)
         return im
     # 4. dove sono finiti i soldi
     if t<23.5:
@@ -157,18 +157,33 @@ def frame(t):
     d.text((W/2,890),"Salva e segui @zeni_thdigital",font=P("Medium",40),fill=WH,anchor="mm")
     figure(d,W/2,FY+120,mood="happy",t=t,s=0.9) if False else figure(d,W/2,FY+120,s=0.9,mood="happy",t=t)
     return im
+SUBS=[(0.0,3.5,"Due amici. Stessi soldi. Stesso mercato."),(3.5,7.0,"Marco investe in banca: costi del 2,2% l'anno."),(7.0,10.5,"Luca compra un ETF: costi dello 0,2%."),(10.5,16.0,"200 € al mese, per 30 anni."),(16.0,19.5,"Luca ha 188 mila €. Marco solo 132 mila."),(19.5,23.5,"55 mila € persi tra commissioni e interessi mancati."),]
+def subs(d,t):
+    for a,b,txt in SUBS:
+        if a<=t<b:
+            f=P("Bold",50); words=txt.split(); lines=[];c=""
+            for w in words:
+                x=(c+" "+w).strip()
+                if d.textlength(x,font=f)<=900: c=x
+                else: lines.append(c); c=w
+            lines.append(c)
+            y=1400
+            for l in lines:
+                tw=d.textlength(l,font=f); d.rounded_rectangle([W/2-tw/2-24,y-38,W/2+tw/2+24,y+38],radius=18,fill=(245,245,245))
+                d.text((W/2,y),l,font=f,fill=(10,10,10),anchor="mm"); y+=84
 def post(im,t):
     glow=im.filter(ImageFilter.GaussianBlur(14))
     out=ImageChops.add(im,ImageChops.multiply(glow,Image.new("RGB",(W,H),(150,150,150))))
     d=ImageDraw.Draw(out)
-    d.text((W/2,1505),"Esempio ipotetico: rendimento lordo 6% annuo costante.",font=P("Regular",26),fill=(110,110,110),anchor="mm")
-    d.text((W/2,1540),"Non è consulenza finanziaria.",font=P("Regular",26),fill=(110,110,110),anchor="mm")
+    subs(d,t)
+    d.text((W/2,1590),"Esempio ipotetico: rendimento lordo 6% annuo costante.",font=P("Regular",26),fill=(110,110,110),anchor="mm")
+    d.text((W/2,1625),"Non è consulenza finanziaria.",font=P("Regular",26),fill=(110,110,110),anchor="mm")
     # flash ai cambi scena
     for c in (10.5,16,19.5,23.5,27.5):
         if 0<=t-c<0.12: out=Image.blend(out,Image.new("RGB",(W,H),(255,255,255)),0.35*(1-(t-c)/0.12))
     return out
 out=sys.argv[1]
-p=subprocess.Popen(["ffmpeg","-y","-loglevel","error","-f","rawvideo","-pix_fmt","rgb24","-s",f"{W}x{H}","-r",str(FPS),"-i","-","-c:v","libx264","-preset","veryfast","-crf","19","-pix_fmt","yuv420p","-movflags","+faststart",out],stdin=subprocess.PIPE)
+p=subprocess.Popen(["ffmpeg","-y","-loglevel","error","-f","rawvideo","-pix_fmt","rgb24","-s",f"{W}x{H}","-r",str(FPS),"-i","-","-f","lavfi","-i","anullsrc=r=44100:cl=stereo","-shortest","-c:v","libx264","-vf","setsar=1","-c:a","aac","-b:a","128k","-preset","veryfast","-crf","19","-pix_fmt","yuv420p","-movflags","+faststart",out],stdin=subprocess.PIPE)
 for k in range(int(DUR*FPS)):
     t=k/FPS; p.stdin.write(post(frame(t),t).tobytes())
 p.stdin.close(); p.wait()
