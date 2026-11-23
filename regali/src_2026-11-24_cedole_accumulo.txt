@@ -1,0 +1,37 @@
+Cedole o accumulo? La guida per scegliere l'ETF giusto
+Il regalo del post sullo stacco dei dividendi: perché il prezzo scende e come scegliere tra accumulazione e distribuzione.
+
+## 1. Cosa è successo il 23 novembre 2026
+- Il FTSE MIB ha chiuso a 49.021 punti, in rialzo dello 0,65%, sull'onda del ritorno di Jensen Huang alla guida di Nvidia (fonte: ANSA).
+- Nello stesso giorno 11 società quotate hanno staccato il dividendo: l'effetto sull'indice è stato di circa l'1,4% (fonte: ANSA). Senza lo stacco, la seduta sarebbe stata intorno al +2% (nostra stima: 0,65% + 1,4%).
+
+## 2. Perché il prezzo scende allo stacco
+- Il dividendo è una parte degli utili che esce dalla cassa dell'azienda e arriva sul tuo conto. L'azienda vale un po' meno, quindi il prezzo dell'azione scende più o meno dell'importo della cedola.
+- Esempio: azione a 10 €, dividendo 0,50 €. Dopo lo stacco: 9,50 € + 0,50 € in contanti = sempre 10 €. Non sei diventato più ricco: hai solo spostato soldi dall'azione al conto.
+- Nella realtà il prezzo si muove anche per tutto il resto (notizie, mercato), quindi la discesa esatta non si vede quasi mai.
+
+## 3. Il costo nascosto: le tasse subito
+- In Italia sui dividendi di azioni incassati da una persona fisica si paga il 26% (ritenuta, DPR 600/1973, art. 27).
+- Esempio: 1.000 azioni da 10 € e dividendo di 0,50 €: 500 € lordi, 130 € di imposta, 370 € netti. A parità di mercato il tuo patrimonio passa da 10.000 € a 9.870 €.
+- Anche i proventi distribuiti dagli ETF (fondi armonizzati) sono tassati al 26% quando li incassi (DPR 600/1973, art. 26-quinquies). La parte che deriva da titoli di Stato italiani e assimilati ha un'aliquota più bassa (12,5%).
+
+## 4. Accumulazione contro distribuzione
+- ETF a distribuzione: ti accredita le cedole sul conto (di solito ogni trimestre, semestre o anno). Paghi il 26% a ogni accredito.
+- ETF ad accumulazione: reinveste le cedole dentro il fondo. Non incassi nulla e non paghi tasse finché non vendi; alla vendita paghi il 26% sul guadagno.
+- Su entrambi si paga l'imposta di bollo dello 0,2% annuo sul valore del deposito titoli.
+
+## 5. L'esempio a 20 anni (ipotetico)
+- Ipotesi: 10.000 € investiti, rendimento totale 7% l'anno di cui 3% da cedole, cedole nette reinvestite, nessun costo, nessuna imposta di bollo, tasse al 26%. Non è una previsione.
+- Accumulazione: dopo 20 anni 38.697 € lordi, 31.236 € netti dopo le tasse alla vendita.
+- Distribuzione con cedole reinvestite: 29.512 € netti. Differenza: 1.724 € a favore dell'accumulazione, solo per aver rimandato le tasse.
+- Se le cedole non le reinvesti (le spendi), il confronto non regge più: stai usando i soldi, non accumulando.
+
+## 6. Come scegliere in 3 domande
+- Ti servono entrate periodiche oggi (es. integrare la pensione)? La distribuzione può avere senso: le cedole arrivano senza dover vendere quote.
+- Stai costruendo un capitale per tra 10-20 anni con un PAC? L'accumulazione di solito è più efficiente: niente tasse intermedie e niente cedole da reinvestire a mano.
+- Hai minusvalenze da recuperare? Ricorda che le minusvalenze non si compensano con i proventi degli ETF: chiedi a chi ti segue.
+
+## 7. Dove leggere il tipo di ETF
+- Nel nome: "Acc" o "Accumulating" = accumulazione; "Dist" o "Distributing" = distribuzione.
+- Nella scheda del prodotto e nel KID trovi la "politica di distribuzione" e la frequenza delle cedole.
+- Per confrontare il tuo ETF con l'indice, usa la versione Total Return (o Net Total Return) dell'indice, che tiene conto dei dividendi: il FTSE MIB che senti al TG è un indice di prezzo e non li conta.
