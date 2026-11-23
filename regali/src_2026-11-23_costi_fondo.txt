@@ -1,0 +1,29 @@
+Quanto ti costa davvero il tuo fondo? La checklist in 5 minuti
+Il regalo del Reel "Stessi soldi, 55.000 € di differenza": come trovare i costi nel KID e capire se stai pagando troppo.
+
+## 1. Procurati il KID
+- Il KID (Documento contenente le informazioni chiave) è obbligatorio per legge: la banca deve dartelo. Lo trovi anche sul sito della società che gestisce il fondo, cercando il codice ISIN del tuo fondo.
+- L'ISIN è un codice di 12 caratteri (es. IT0000000000 o IE00…): lo trovi nell'estratto conto titoli o nel contratto.
+
+## 2. Vai alla sezione "Quali sono i costi?"
+- Costi una tantum: di ingresso e di uscita. Si pagano quando entri o esci dal fondo.
+- Costi correnti: commissioni di gestione e altri costi amministrativi o di esercizio, più i costi di transazione. Si pagano OGNI ANNO, in percentuale su tutto il tuo capitale.
+- Oneri accessori: per esempio le commissioni di performance, se il fondo le prevede.
+
+## 3. Fai la somma dei costi annui
+- Somma le percentuali annuali (gestione + transazione + eventuali commissioni di performance). È il numero che conta nel lungo periodo.
+- Esempio del Reel: 2,2% l'anno per il fondo in banca contro 0,2% per l'ETF. Con 200 € al mese per 30 anni e rendimento lordo ipotetico del 6%, la differenza finale è di circa 55.000 €.
+
+## 4. Confronta
+- Cerca un ETF che investe sugli stessi mercati (stesso indice o area geografica) e guarda il suo TER sulla scheda del prodotto.
+- Ogni punto percentuale di costi in più, su orizzonti lunghi, si mangia una parte importante del risultato, perché toglie soldi che avrebbero prodotto altri rendimenti.
+
+## 5. Prima di cambiare, verifica
+- Costi di uscita dal fondo attuale e conseguenze fiscali della vendita (plusvalenze o minusvalenze).
+- Se il fondo è dentro un contratto (es. polizza o piano previdenziale), le regole possono essere diverse.
+- In caso di dubbio, chiedi a un consulente indipendente: questo materiale è solo educativo.
+
+## Le 3 domande da fare in banca
+- "Qual è il costo annuo totale del mio fondo, in percentuale?"
+- "Ci sono costi di uscita se lo vendo?"
+- "Esiste un'alternativa con gli stessi mercati e costi più bassi?"
