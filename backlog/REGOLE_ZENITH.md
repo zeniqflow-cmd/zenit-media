@@ -11,7 +11,8 @@
 ## Ogni post (carosello o Reel)
 - Didascalia con DOMANDA da commentare (1 riga, specifica, facile) + "Commenta ZEN e ti mando in privato il regalo: <titolo PDF>".
 - Regalo: PDF didattico specifico del post, generato con `python3 tools/regalo_pdf.py regali/src_<data>_<slug>.txt regali/<data>_<slug>.pdf`, aggiunto IN CIMA alla tabella di regali/README.md.
-- Hashtag: 8-10, tutti con #.
+- Hashtag: 5-8, specifici, tutti con #. Le parole chiave nella prima riga contano di più (vedi MARKETING.md).
+- Carosello: file alt.txt con una descrizione per slide (testo alternativo).
 - Chiusura: "Esempio didattico. Non è consulenza finanziaria."
 
 ## Reel (formato omino)
