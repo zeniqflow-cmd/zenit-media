@@ -1,0 +1,34 @@
+Resta dentro: la guida anti-panico per chi investe
+Il regalo del Reel sui 10 giorni migliori della borsa: perché uscire nel panico costa caro e come prepararsi prima del prossimo crollo.
+
+## 1. Il dato del Reel
+- 10.000 $ investiti nell'ETF SPY (indice S&P 500) il 12/10/2006, con dividendi reinvestiti, valevano circa 82.300 $ il 12/10/2026: circa +11% l'anno (fonte: The Motley Fool, ottobre 2026).
+- Senza i 10 giorni migliori di quei 20 anni: circa 35.700 $, circa +6,6% l'anno. Senza i 20 migliori: circa 21.500 $. Senza i 40 migliori: circa 9.900 $, meno di quanto investito.
+- I tassi annui li abbiamo ricalcolati noi dai valori finali: (82.300 / 10.000)^(1/20) - 1 = 11,1%; (35.700 / 10.000)^(1/20) - 1 = 6,6%.
+- Paolo, nel video, è un caso ipotetico: nessuno perde esattamente i 10 giorni migliori. Serve a mostrare quanto pesano pochi giorni.
+
+## 2. Perché i giorni migliori sono vicini ai peggiori
+- Secondo la stessa analisi, 7 dei 10 giorni migliori sono arrivati entro 2 settimane da uno dei 10 peggiori. Il giorno migliore (13/10/2008, +14,5%) è caduto in piena crisi finanziaria.
+- Nei periodi di forte paura i prezzi si muovono tanto in entrambe le direzioni. Chi vende dopo un crollo spesso non rientra in tempo per il rimbalzo.
+- Per uscire e rientrare al momento giusto bisogna indovinare due volte: quando vendere e quando ricomprare.
+
+## 3. Il costo nascosto di uscire
+- Tasse: se vendi in guadagno paghi subito il 26% sulla plusvalenza (12,5% sulla parte da titoli di Stato). Restando investito, le rimandi.
+- Commissioni di vendita e riacquisto, e la differenza tra prezzo di acquisto e di vendita (spread).
+- Il costo più grande però è quello del Reel: i giorni di rialzo che ti perdi mentre sei fuori.
+
+## 4. Il piano anti-panico (da scrivere a mente fredda)
+- Fondo di emergenza: tieni da parte 3-6 mesi di spese su un conto separato. Così non devi vendere gli investimenti se ti serve liquidità durante un crollo.
+- Orizzonte: investi in azioni solo i soldi che non ti servono per almeno 10 anni.
+- PAC: un piano di accumulo automatico continua a comprare anche quando i prezzi scendono, senza dover decidere ogni mese.
+- Regola personale: scrivi oggi "in caso di calo del 20-30% non vendo e non cambio il piano per almeno 30 giorni". Rileggila quando arriva la paura.
+- Allocazione: se un calo del 30% ti toglie il sonno, forse hai troppe azioni. Meglio un mix più prudente che tieni nel tempo che uno aggressivo che abbandoni.
+
+## 5. Quando ha senso vendere davvero
+- Ti servono i soldi per un obiettivo vicino (casa, studi, spese certe entro 1-3 anni): conviene spostarli prima, con calma, non durante il panico.
+- Hai cambiato obiettivi o situazione di vita: rivedi l'allocazione, non il singolo giorno di borsa.
+- Il prodotto ha costi troppo alti o non ti rappresenta più: cambia strumento, ma senza restare fuori dal mercato a lungo.
+
+## 6. In una frase
+- Il tempo nel mercato conta più del market timing: chi resta dentro nei giorni peggiori è lì anche nei migliori.
+- Rendimenti passati non garantiscono quelli futuri: l'S&P 500 può anche avere decenni deboli.
