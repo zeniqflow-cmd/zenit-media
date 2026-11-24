@@ -14,3 +14,8 @@
 1. **Perché perdere 100 € fa più male che vincerne 100 (e cosa c'entra il tuo PAC)** – prospect theory, Kahneman e Tversky.
 2. **Il grafico che ha portato Shiller al Nobel: la borsa corre più dei profitti** – prezzi contro valore attuale dei dividendi.
 3. **Sei sicuro al 90%? Il quiz che smaschera l'eccesso di fiducia** – carosello a quiz interattivo.
+
+## 24/11/2026 – Formazione n. 2 (Shiller, gestione del rischio)
+1. **+50% e poi -50%: perché non sei in pari (la trappola della media)** – media semplice contro rendimento composto.
+2. **Perché un'assicurazione può pagare la tua casa (e perché fallirebbe se bruciasse tutta la città)** – rischi indipendenti, dal Grande incendio di Londra alla polizza catastrofale.
+3. **Il cigno nero nel tuo portafoglio: 3 difese contro gli eventi "impossibili"** – code grasse, fondo emergenze, niente leva.
