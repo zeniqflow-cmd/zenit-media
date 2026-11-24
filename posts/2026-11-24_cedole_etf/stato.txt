@@ -1,1 +1,2 @@
 in_attesa
+revisionato con correzioni: hashtag da 10 a 8 (tolti #borsa e #risparmio, regola 5-8); aggiunto alt.txt (8 righe, mancava) 18:32
