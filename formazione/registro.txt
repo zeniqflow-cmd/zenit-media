@@ -2,3 +2,4 @@ data | id | relatore - titolo | punteggio | link del doc
 BLOCCATO 2026-11-22
 2026-11-23 | OYC-ECON252-08-L07 | Robert Shiller - Behavioral Finance: The Role of Psychology | 10/10 | https://claude.ai/artifact/B8zwyUZJGLx3YcrUTQB1nq
 2026-11-24 | OYC-ECON252-08-L02 | Robert Shiller - The Universal Principle of Risk Management: Pooling and the Hedging of Risks | 10/10 | https://claude.ai/artifact/Hbt4r37b6BF7pN8WJhMrKe
+2026-11-25 | OYC-ECON252-08-L04 | Robert Shiller - Portfolio Diversification and Supporting Financial Institutions (CAPM Model) | 10/10 | https://claude.ai/artifact/X2syugBHhetDoxAs67SoCM

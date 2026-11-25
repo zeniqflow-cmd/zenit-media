@@ -19,3 +19,8 @@
 1. **+50% e poi -50%: perché non sei in pari (la trappola della media)** – media semplice contro rendimento composto.
 2. **Perché un'assicurazione può pagare la tua casa (e perché fallirebbe se bruciasse tutta la città)** – rischi indipendenti, dal Grande incendio di Londra alla polizza catastrofale.
 3. **Il cigno nero nel tuo portafoglio: 3 difese contro gli eventi "impossibili"** – code grasse, fondo emergenze, niente leva.
+
+## 25/11/2026 – Formazione n. 3 (Shiller, diversificazione e CAPM)
+1. **Perché 10 titoli rischiano meno di 1: la regola della radice quadrata** – esempio semplice di σ/√n, con l'avvertenza sulle correlazioni.
+2. **La Norvegia aveva troppo petrolio. E tu hai troppo «lavoro» nel portafoglio?** – il capitale umano come rischio da diversificare.
+3. **Un solo fondo per tutti? Cosa dice il Nobel (e perché cambia solo la dose di BOT)** – teorema del fondo comune con tre profili: prudente, moderato, aggressivo.
