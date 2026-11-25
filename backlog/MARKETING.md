@@ -1,5 +1,37 @@
 # Direttive dello Stratega marketing (aggiornate ogni sera)
 
+## 25/11/2026 sera – Analisi dati (Windsor, 13 post dal 16/11, follower oggi: 15)
+
+**Fatti (dati Windsor, letti il 25/11 alle 21:07)**
+- Follower fermi a 15 (come il 24/11). Obiettivo 40 entro il 3/12: mancano +25 in 8 giorni, cioè più di 3 al giorno.
+- Nessun Reel nuovo pubblicato: giorni_migliori è ancora in cartella. In coda restano 5 Reel validi (paracadute escluso). La direttiva 1 di ieri non è partita.
+- Il Reel del 23/11 resta l'unico contenuto uscito dalla cerchia dei follower: copertura 121 (143 visualizzazioni), ma 0 salvataggi, 1 condivisione, 0 commenti.
+- Caroselli: copertura media 14,3 in 14 giorni, ma solo 7 negli ultimi tre (borsa/PAC 10, cedole 6, diversificazione 5 a circa 2 ore dall'uscita). Tutti e tre aprono con la cronaca di Piazza Affari e hanno 0 condivisioni, 0 salvataggi e 0 commenti.
+- Condivisioni totali: 52, di cui 45 su tre post: YALE (18), Fondo prima casa (16), Manovra/busta paga (11). Sono temi che parlano della vita di chi legge (casa, stipendio, errori di testa) o che danno un regalo.
+- Il carosello del 25/11 ha la domanda Sì/No, ma solo dopo un paragrafo di cronaca, non subito dopo la prima riga come chiedeva la direttiva 5. Per ora 0 commenti (troppo presto per giudicare).
+- Orari: quasi tutti i post sono usciti tra le 19:00 e le 21:20. Il post delle 8:45 (IPO, copertura 20) e quello delle 12:30 (YALE, copertura 14) non fanno meglio né peggio.
+
+**Ipotesi (con fiducia)**
+- Il collo di bottiglia resta lo stesso: senza Reel la pagina non raggiunge chi non ci segue, e con 15 follower ogni carosello arriva a 5-10 persone (fiducia media-alta).
+- Aprire con la cronaca di borsa ("Piazza Affari ha perso...") spegne le condivisioni; funziona chi parla a "te" e ai tuoi soldi (fiducia media).
+- Il regalo ZEN non si può giudicare finché i post raggiungono 5 persone: non va tolto (fiducia media).
+- Con il ritmo attuale si chiude il 3/12 sotto i 20 follower. I 40 restano possibili solo se da domani esce un Reel al giorno e almeno 2-3 superano le 150 persone raggiunte (fiducia bassa).
+
+**Direttive per i prossimi giorni**
+1. **Reel ogni sera: è la priorità numero uno.** Gianni pubblica giorni_migliori il 26/11 verso le 21:15, poi uno al giorno nell'ordine paga_te_stesso → omino_pac → aspettare10anni → tempo_interesse. Il recap delle 21:47 mette il nome del Reel da pubblicare in prima riga, prima di tutto il resto.
+2. **Unica eccezione alla coda: Reel tredicesima per il 27/11 (Black Friday).** Il Regista, giovedì 26/11, prepara il Reel omino "Stessa tredicesima, due destini" e lo mette in testa alla coda per la sera del 27/11. Gli altri Reel scalano di un giorno. Dopo questo, nessun Reel nuovo finché in coda ce ne sono più di 3. Cifre ricalcolate in Python, esempio ipotetico dichiarato, nessuna promessa di guadagno.
+3. **Carosello del 26/11 (Analista, stasera): tredicesima e Black Friday**, come ha proposto il Redattore. Le date di pagamento (pensionati INPS e dipendenti privati) vanno scritte solo se trovate su fonte ufficiale (INPS, testo del CCNL o del Ministero del Lavoro). Altrimenti si scrive "a dicembre, con lo stipendio o la pensione" e la data non si mette.
+4. **Slide 1 e prima riga: "tu" più una cifra in euro, mai la cronaca.** Esempio: "Hai 1.200 € di tredicesima: ecco dove finiscono". La notizia di borsa va dentro il carosello (slide 2 o 3), non in apertura. Per i dati di borsa la fonte principale è la pagina Teleborsa su Borsa Italiana con l'orario; ANSA solo per il valore dell'indice (consiglio del Revisore, adottato).
+5. **La domanda Sì/No o col numero va sulla seconda riga della didascalia**, subito dopo il gancio, prima di ogni paragrafo di contesto. Il Revisore controlla questo punto come gli hashtag. Nella prima ora Gianni risponde a ogni commento. Un amico può rompere il ghiaccio solo con una risposta vera: niente commenti finti.
+6. **Orari confermati: carosello alle 19:00, Reel alle 21:15.** Non si cambiano finché non escono almeno 3 Reel da confrontare. Gli orari di mattina e di pranzo non hanno dato vantaggi.
+
+**Idee di temi (in ordine di priorità)**
+1. **"Stessa tredicesima, due destini"** (carosello 26/11 + Reel 27/11): una la spende in rate "compra ora, paga dopo" al Black Friday, l'altra la divide tra fondo emergenze e PAC. Si collega al post sulle rate del 20/11 (4 condivisioni). Regalo: "Tredicesima in 3 parti (PDF)". Domanda: "Hai già deciso cosa fare con la tredicesima? Sì o No".
+2. **"+50% e poi −50%: perché non sei in pari"** (Reel omino 28-29/11, idea dell'Analista confermata): 100 → 150 → 75, contatore in movimento, collegato alla regola "−50% richiede +100%" del carosello del 25/11.
+3. **"Quanti mesi di spese hai da parte?"** (carosello 30/11-1/12): fondo emergenze in 3 livelli (3, 6, 12 mesi) con cifre in euro su uno stipendio di esempio. Domanda: "Scrivi il numero dei mesi". Tema pratico e personale, il tipo di post che fa condividere. Cifre ricalcolate in Python.
+
+Conteggio obiettivo: 24/11 → 15 · 25/11 → 15 (mancano 25 al 3/12).
+
 ## 24/11/2026 sera – Analisi dati (Windsor, 12 post dal 16/11, follower oggi: 15)
 
 **Fatti (dati Windsor, cache del 24/11 sera)**
