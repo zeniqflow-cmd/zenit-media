@@ -5,6 +5,7 @@ Tocca il nome del file e poi il pulsante di download in alto a destra.
 
 | Data | Post | Regalo |
 |---|---|---|
+| 26/11/2026 | Hai 1.200 € di tredicesima. Venerdì è Black Friday | [Tredicesima in 3 parti: un piano semplice per non bruciarla al Black Friday (PDF)](2026-11-26_tredicesima.pdf) |
 | 25/11/2026 | 1.000 € in una sola azione: −102 € in un giorno | [Il check-up della diversificazione: 7 domande per capire se il tuo portafoglio è troppo concentrato (PDF)](2026-11-25_diversificazione.pdf) |
 | 24/11/2026 | Reel: 10 giorni persi, 46.600 $ in meno | [Resta dentro: la guida anti-panico per chi investe (PDF)](2026-11-24_giorni_migliori.pdf) |
 | 24/11/2026 | Milano ha "perso" l'1,4% in un secondo | [Cedole o accumulo? La guida per scegliere l'ETF giusto (PDF)](2026-11-24_cedole_accumulo.pdf) |

@@ -1,0 +1,39 @@
+Tredicesima in 3 parti
+Un piano semplice per non bruciarla al Black Friday. Il regalo del post "Hai 1.200 € di tredicesima. Venerdì è Black Friday".
+
+## 1. Prima di tutto: quanto ti arriva davvero
+- La tredicesima arriva a dicembre, con lo stipendio o con la pensione. Controlla la cifra netta sul cedolino di dicembre: è quella che conta, non il lordo.
+- Scrivi il numero qui: tredicesima netta = ______ €. Dividilo per 3: ogni parte = ______ €.
+- Esempio usato nel post (ipotetico): 1.200 € netti, quindi 3 parti da 400 €.
+
+## 2. Parte 1: fondo emergenze (sul conto, fuori dalla borsa)
+- Serve per gli imprevisti: auto, dentista, caldaia, un mese senza entrate. Senza fondo, ogni imprevisto diventa un debito o una vendita forzata.
+- Obiettivo: da 3 a 6 mesi di spese. Esempio: con 1.500 € di spese al mese, 3 mesi = 4.500 €, 6 mesi = 9.000 €.
+- Calcola il tuo: spese mensili ______ € x 3 = ______ € (minimo) · x 6 = ______ € (obiettivo).
+- Perché non in borsa: il 25/11/2026 il FTSE MIB ha chiuso a −1,81% (ANSA). I soldi che ti possono servire domani non devono dipendere da un giorno così.
+- Se il fondo è già completo, questa parte può andare alle parti 2 e 3.
+
+## 3. Parte 2: il tuo PAC in ETF (soldi che non ti servono per anni)
+- Paga prima te stesso: metti da parte prima di spendere, non "quello che avanza".
+- Esempio ipotetico: 400 € ogni dicembre con un rendimento costante del 5% annuo, senza costi né tasse, diventano circa 5.031 € in 10 anni (4.000 versati) e circa 13.226 € in 20 anni (8.000 versati). È matematica dell'interesse composto, non una previsione: i rendimenti veri cambiano ogni anno e possono essere negativi.
+- Formula: valore = versamento x ((1 + r)^n − 1) / r. Esempio: 400 x ((1,05)^20 − 1) / 0,05 = 13.226 €.
+- In Italia i guadagni su ETF sono tassati al 26% (12,5% sulla parte da titoli di Stato): l'esempio non ne tiene conto.
+- Investi solo soldi che puoi lasciare fermi per molti anni: nei giorni come il 25/11 un PAC scende, e non devi essere costretto a vendere.
+
+## 4. Parte 3: per te, senza rate
+- Una parte della tredicesima è per goderla: regali, un acquisto atteso, un viaggio. Va bene, se è decisa prima.
+- Paga subito con questa parte. Se il carrello supera la cifra, si toglie qualcosa dal carrello, non si aggiunge una rata.
+- Dal 20 novembre 2026 il "compra ora, paga dopo" rientra nelle regole del credito al consumo (d.lgs. 212/2025): più controlli, costi più chiari e 14 giorni per ripensarci. Restano comunque soldi che devi a qualcuno.
+
+## 5. Checklist Black Friday (5 domande prima di comprare)
+- 1. Lo avrei comprato anche a prezzo pieno, tra un mese?
+- 2. Rientra nella parte 3 della mia tredicesima?
+- 3. Lo sto pagando a rate? Se sì, quante rate ho già aperte e quanto pesano sullo stipendio di gennaio?
+- 4. Lo sconto è vero? Confronta con il prezzo delle settimane precedenti.
+- 5. Se domani arrivasse un imprevisto da 400 €, saprei come pagarlo?
+
+## 6. Hai debiti costosi?
+- Se hai rate o carte con interessi alti, ridurle viene prima del PAC: un debito che costa più di quanto potresti ragionevolmente guadagnare investendo va chiuso per primo.
+- Ordine semplice: 1) un piccolo fondo per gli imprevisti; 2) i debiti più costosi; 3) il fondo completo e il PAC.
+
+Fonti: ANSA, 25/11/2026 (chiusura FTSE MIB); d.lgs. 212/2025. Esempi ipotetici calcolati da Budget Zen.
