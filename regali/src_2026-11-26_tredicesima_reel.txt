@@ -1,0 +1,38 @@
+Il PAC della tredicesima: quanto può diventare
+La tabella 400 € l'anno da 5 a 30 anni e il test anti-rate in 5 domande. Il regalo del Reel "Stessa tredicesima, due destini".
+
+## 1. La storia del Reel in breve
+- Marco e Sara ricevono la stessa tredicesima netta: 1.200 € (cifra ipotetica).
+- Marco al Black Friday spende tutto e apre 3 rate da 200 €. Sara la divide in 3 parti da 400 €: fondo emergenze, PAC, una parte per sé.
+- A gennaio una gomma bucata costa 400 €: Marco fa un nuovo debito, Sara paga con il fondo e il suo PAC resta intatto.
+- Una sola differenza: Sara decide dove vanno i soldi PRIMA di spenderli. Si chiama "paga prima te stesso".
+
+## 2. La tabella: 400 € ogni dicembre
+- Ipotesi: versamento di 400 € a fine anno, rendimento costante annuo, senza costi né tasse. È matematica, non una previsione.
+- 5 anni: versati 2.000 € · al 3% circa 2.124 € · al 5% circa 2.210 €
+- 10 anni: versati 4.000 € · al 3% circa 4.586 € · al 5% circa 5.031 €
+- 15 anni: versati 6.000 € · al 3% circa 7.440 € · al 5% circa 8.631 €
+- 20 anni: versati 8.000 € · al 3% circa 10.748 € · al 5% circa 13.226 €
+- 25 anni: versati 10.000 € · al 3% circa 14.584 € · al 5% circa 19.091 €
+- 30 anni: versati 12.000 € · al 3% circa 19.030 € · al 5% circa 26.576 €
+- Formula: valore = versamento x ((1 + r)^n − 1) / r. Esempio del Reel: 400 x ((1,05)^20 − 1) / 0,05 = 13.226 €, di cui 5.226 € di interesse composto.
+
+## 3. Cosa la tabella non dice
+- I mercati non salgono ogni anno della stessa percentuale: ci sono anni negativi, anche molto. Il risultato reale può essere più alto o più basso.
+- Costi del prodotto (TER) e tasse riducono il risultato. In Italia le plusvalenze su ETF sono tassate al 26% (12,5% sulla quota di titoli di Stato).
+- Il PAC ha senso solo con soldi che non ti servono per molti anni. Per gli imprevisti c'è il fondo emergenze, sul conto.
+
+## 4. Il test anti-rate (5 domande prima del Black Friday)
+- 1. Lo comprerei anche a prezzo pieno, tra un mese?
+- 2. Rientra nella parte "per me" della tredicesima, senza toccare fondo e PAC?
+- 3. Quante rate ho già aperte, e quanto pesano sullo stipendio di gennaio?
+- 4. Lo sconto è vero? Ho controllato il prezzo delle settimane scorse?
+- 5. Se domani arrivasse un imprevisto da 400 €, saprei pagarlo senza un nuovo debito?
+- Se rispondi "no" a 2 domande o più: aspetta una settimana prima di comprare.
+
+## 5. Il tuo piano in 3 righe
+- Tredicesima netta: ______ € · diviso 3 = ______ € per parte.
+- Fondo emergenze: ho già ______ mesi di spese da parte (obiettivo 3-6 mesi).
+- PAC: verso ______ € ogni dicembre per ______ anni. Hai debiti costosi? Prima quelli.
+
+Esempi ipotetici calcolati da Budget Zen. I rendimenti passati non garantiscono quelli futuri.
