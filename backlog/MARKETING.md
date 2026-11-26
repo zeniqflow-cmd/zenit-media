@@ -1,5 +1,36 @@
 # Direttive dello Stratega marketing (aggiornate ogni sera)
 
+## 26/11/2026 sera – Analisi dati (Windsor, 13 post dal 16/11, follower oggi: 16)
+
+**Fatti (dati Windsor, letti il 26/11 alle 21:07)**
+- Follower 16 (+1 rispetto a ieri). Obiettivo 40 entro il 3/12: mancano +24 in 7 giorni, cioè circa 3,4 al giorno.
+- Oggi non è uscito niente: il carosello tredicesima è stato bloccato dal Revisore (slide 4 e didascalia davano come "oggi" il −1,81% del 25/11, mentre il 26/11 Milano ha chiuso a +2,36%). Il blocco era giusto.
+- Nessun Reel nuovo nei dati: l'ultimo resta "costi fondo" del 23/11. giorni_migliori non risulta pubblicato (o non ancora nella cache delle 21:07). Per il terzo giorno la direttiva 1 non è partita.
+- Il Reel del 23/11 resta l'unico contenuto uscito dalla cerchia: copertura 121 contro 9-22 di tutti i caroselli.
+- Ultimi tre caroselli (borsa/PAC, cedole, diversificazione): copertura 10, 9, 9; 0 condivisioni, 0 salvataggi. Diversificazione ha 1 commento (un emoji, non una risposta Sì/No).
+- In 14 giorni le condivisioni restano concentrate su YALE (18), Fondo prima casa (16), Manovra/busta paga (11), BNPL (4). Casa e busta paga sono i due temi pratici che hanno fatto girare la pagina.
+
+**Ipotesi (con fiducia)**
+- Con 9-10 persone raggiunte per carosello non possiamo giudicare né il gancio né la domanda Sì/No: il campione è troppo piccolo (fiducia alta). Il test vero della domanda facile sarà su un Reel.
+- Il vincolo resta la pubblicazione dei Reel da parte di Gianni, non la produzione: in coda ce ne sono 6 pronti (fiducia alta).
+- Il tema casa/mutuo è il candidato più forte dopo la tredicesima: Consap ha avuto 16 condivisioni su 19 persone raggiunte (fiducia media, un solo post).
+- Obiettivo 40 al 3/12: realisticamente fuori portata. Anche con un Reel al giorno da 120 persone servirebbero circa 3 nuovi follower per Reel, mentre finora un Reel da 121 ne ha portati 0-1 (fiducia media). Propongo un traguardo intermedio onesto: 25 follower al 3/12, mantenendo 40 come obiettivo di dicembre. La decisione resta a Gianni.
+
+**Direttive per i prossimi giorni**
+1. **Il carosello tredicesima esce il 27/11 (Black Friday), non si butta.** Analista, stasera: sposta la cartella in `posts/2026-11-27_tredicesima/`, correggi slide 4 e didascalia come chiede il Revisore. Slide 4 con date esplicite: "25/11: Milano −1,81%. 26/11: +2,36%. Per questo il fondo emergenze non sta in borsa" (dati già confermati dal Revisore su ANSA). Togli le cause (AI, dazi, Fed) se non trovi la fonte Teleborsa con l'orario. Rigenera 04.jpg e lo zip, stato `in_attesa`. Nessun nuovo carosello per il 27/11. Redattore, alle 7:17 controlla che non ci sia più nessun "oggi" o "ieri" sui dati di borsa.
+2. **Regola fissa (proposta del Revisore, adottata): i dati di borsa hanno sempre la data scritta** ("il 25/11"), mai "oggi" o "ieri", perché il post si prepara la sera prima ed esce il giorno dopo. Ogni causa citata (AI, dazi, tassi) ha una fonte con l'orario, altrimenti si toglie.
+3. **27/11 sera: Reel tredicesima alle 21:15.** È lo stesso tema del carosello delle 19:00, quindi i due si richiamano (Marco e Sara). Se giorni_migliori non è uscito stasera, passa al 28/11 e la coda scala di un giorno: paga_te_stesso → omino_pac → aspettare10anni → tempo_interesse. Il recap delle 21:47 mette in prima riga: "Domani 21:15: Reel tredicesima".
+4. **Regista: nessun Reel nuovo finché in coda ce ne sono più di 3** (oggi sono 6). "+50% poi −50%" resta il prossimo, ma parte solo quando la coda scende a 3. Nel frattempo, se c'è tempo, controlla i Reel in coda: hashtag 5-8 con #, personaggi a 60 px dal margine, domanda Sì/No in seconda riga della didascalia.
+5. **Commenti: la domanda Sì/No resta per tredicesima (27/11); dal 28/11 si prova una domanda "A o B?"** (proposta del Community manager), es. "Rata fissa o variabile? Scrivi A o B". Si confrontano solo i post sopra le 50 persone raggiunte. Agli emoji sul post del giorno Gianni risponde ripetendo la domanda (proposta del Community, adottata). Niente commenti finti.
+6. **Orari confermati: carosello 19:00, Reel 21:15.** Non si toccano finché non escono 3 Reel da confrontare.
+
+**Idee di temi (in ordine di priorità)**
+1. **Mutuo: "Dopo 5 anni di mutuo hai pagato 60.000 €. Quanto debito hai tolto?"** (carosello 28-29/11, dagli spunti della Formazione n. 4). Tema casa, il più condiviso dopo il regalo YALE. Attenzione: i "45.000 €" scritti negli spunti non tornano con un mutuo tipico. Mio controllo in Python: 200.000 € a 25 anni al 3,5% fisso, rata circa 1.001 €, dopo 60 rate pagati circa 60.075 €, capitale restituito circa 27.360 € (45%). L'Analista ricalcola e dichiara le ipotesi (tasso di esempio, senza spese né assicurazioni). Regalo: "Leggi il tuo piano di ammortamento (PDF)". Domanda A/B: "Mutuo fisso o variabile? Scrivi A o B".
+2. **"+50% e poi −50%: perché non sei in pari"** (Reel omino, quando la coda scende a 3): 100 → 150 → 75, contatore in movimento.
+3. **"Quanti mesi di spese hai da parte?"** (carosello 30/11-1/12): fondo emergenze in 3 livelli (3, 6, 12 mesi) su uno stipendio di esempio, collegato a Sara della tredicesima. Domanda: "Scrivi il numero dei mesi". Cifre ricalcolate in Python.
+
+Conteggio obiettivo: 24/11 → 15 · 25/11 → 15 · 26/11 → 16 (mancano 24 al 3/12).
+
 ## 25/11/2026 sera – Analisi dati (Windsor, 13 post dal 16/11, follower oggi: 15)
 
 **Fatti (dati Windsor, letti il 25/11 alle 21:07)**
