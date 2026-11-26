@@ -24,3 +24,8 @@
 1. **Perché 10 titoli rischiano meno di 1: la regola della radice quadrata** – esempio semplice di σ/√n, con l'avvertenza sulle correlazioni.
 2. **La Norvegia aveva troppo petrolio. E tu hai troppo «lavoro» nel portafoglio?** – il capitale umano come rischio da diversificare.
 3. **Un solo fondo per tutti? Cosa dice il Nobel (e perché cambia solo la dose di BOT)** – teorema del fondo comune con tre profili: prudente, moderato, aggressivo.
+
+## 26/11/2026 – Formazione n. 4 (Shiller, casa, mutui e bolle immobiliari)
+1. **Dopo 5 anni di mutuo hai pagato 45.000 €. Quanto debito hai tolto? (spoiler: meno della metà)** – il piano di ammortamento alla francese spiegato con un esempio.
+2. **Los Angeles 1988: l'80% aveva paura di restare fuori. Ti ricorda qualcosa?** – il sondaggio di Shiller e Case sulle aspettative e la FOMO immobiliare.
+3. **Il mutuo di tuo nonno durava 5 anni (e c'era una maxi-rata finale)** – breve storia del mutuo moderno, dal 1929 al trentennale, e perché oggi in Italia vince il fisso.
