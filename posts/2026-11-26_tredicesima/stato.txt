@@ -1,2 +1,4 @@
+bloccato
+motivo: slide 4 (titolo "Oggi Milano −1,81%") e didascalia ("Intanto oggi Piazza Affari ha chiuso a −1,81%") presentano come "oggi" la chiusura del 25/11. Il post esce il 26/11, giorno in cui il FTSE MIB ha chiuso a +2,36% (48.362 punti, ANSA 26/11 ore 17:57): chi legge alle 19:00 vede un dato falso. Correzione: titolo slide 4 "Ieri Milano −1,81%" (o "25/11: Milano −1,81%"), didascalia "Ieri (25/11) Piazza Affari ha chiuso a −1,81%", rigenerare 04.jpg e lo zip, poi nuova revisione. Inoltre le cause in slide 4 (tech/AI, dazi USA, attesa rialzo Fed) non compaiono nella chiusura ANSA citata: serve la fonte Teleborsa con orario oppure vanno tolte. Revisore 18:32
 in_attesa
 preparato dall'Analista 25/11 sera
