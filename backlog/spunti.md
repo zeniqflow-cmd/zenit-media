@@ -29,3 +29,8 @@
 1. **Dopo 5 anni di mutuo hai pagato 45.000 €. Quanto debito hai tolto? (spoiler: meno della metà)** – il piano di ammortamento alla francese spiegato con un esempio.
 2. **Los Angeles 1988: l'80% aveva paura di restare fuori. Ti ricorda qualcosa?** – il sondaggio di Shiller e Case sulle aspettative e la FOMO immobiliare.
 3. **Il mutuo di tuo nonno durava 5 anni (e c'era una maxi-rata finale)** – breve storia del mutuo moderno, dal 1929 al trentennale, e perché oggi in Italia vince il fisso.
+
+## 27/11/2026 – Formazione n. 5 (Shiller, truffe, regole e tutele dell'investitore)
+1. **I piccioni di Skinner e il tuo portafoglio: quando la fortuna sembra bravura** – l'esperimento del 1948 e il pensiero magico di chi investe.
+2. **1.816 siti truffa oscurati dalla Consob: i controlli da fare prima di dare soldi a una piattaforma** – autorizzazione, prospetto, vip finti creati con l'IA.
+3. **Se la banca fallisce, cosa ti rimborsano? 100.000 €, 20.000 € e quello che nessuno copre** – FITD, Fondo Nazionale di Garanzia e perdite di mercato (dettagli da verificare prima di pubblicare).

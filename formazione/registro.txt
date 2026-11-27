@@ -4,3 +4,4 @@ BLOCCATO 2026-11-22
 2026-11-24 | OYC-ECON252-08-L02 | Robert Shiller - The Universal Principle of Risk Management: Pooling and the Hedging of Risks | 10/10 | https://claude.ai/artifact/Hbt4r37b6BF7pN8WJhMrKe
 2026-11-25 | OYC-ECON252-08-L04 | Robert Shiller - Portfolio Diversification and Supporting Financial Institutions (CAPM Model) | 10/10 | https://claude.ai/artifact/X2syugBHhetDoxAs67SoCM
 2026-11-26 | OYC-ECON252-08-L12 | Robert Shiller - Real Estate Finance and Its Vulnerability to Crisis | 10/10 | https://claude.ai/artifact/FJvMgCWjUGPnpFqphkg4yN
+2026-11-27 | OYC-ECON252-08-L08 | Robert Shiller - Human Foibles, Fraud, Manipulation, and Regulation | 10/10 | https://claude.ai/artifact/1dGRbeJpyt3mSe5DDjZEPw
