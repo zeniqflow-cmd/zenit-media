@@ -5,6 +5,7 @@ Tocca il nome del file e poi il pulsante di download in alto a destra.
 
 | Data | Post | Regalo |
 |---|---|---|
+| 28/11/2026 | Dopo 5 anni di mutuo hai pagato 60.075 €. Quanto debito hai tolto? | [Leggi il tuo piano di ammortamento (PDF)](2026-11-28_mutuo.pdf) |
 | 26/11/2026 | Reel: Stessa tredicesima, due destini | [Il PAC della tredicesima: quanto può diventare (PDF)](2026-11-26_tredicesima_reel.pdf) |
 | 27/11/2026 | Hai 1.200 € di tredicesima. Oggi è Black Friday | [Tredicesima in 3 parti: un piano semplice per non bruciarla al Black Friday (PDF)](2026-11-26_tredicesima.pdf) |
 | 25/11/2026 | 1.000 € in una sola azione: −102 € in un giorno | [Il check-up della diversificazione: 7 domande per capire se il tuo portafoglio è troppo concentrato (PDF)](2026-11-25_diversificazione.pdf) |

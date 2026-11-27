@@ -1,0 +1,44 @@
+Leggi il tuo piano di ammortamento
+Il regalo del post sul mutuo: le colonne del piano, i numeri di un esempio a 25 anni e le domande da farti prima di rimborsare o cambiare mutuo.
+
+## 1. Le 5 colonne del piano
+- Numero rata e data di scadenza.
+- Rata: quanto paghi ogni mese. Nel mutuo "alla francese" (il più diffuso) con tasso fisso resta uguale per tutta la durata.
+- Quota interessi: debito residuo × tasso annuo ÷ 12. È il costo del prestito di quel mese.
+- Quota capitale: rata meno quota interessi. È la parte che riduce davvero il debito.
+- Debito residuo: quanto devi ancora restituire dopo quella rata. È il numero da guardare se pensi di rimborsare in anticipo o di cambiare banca.
+
+## 2. L'esempio del post (ipotetico)
+- 200.000 € a 25 anni (300 rate), tasso fisso 3,5%, senza spese, assicurazioni né detrazioni. Rata: 1.001,25 €.
+- Rata 1: 583,33 € di interessi e 417,91 € di capitale. Rata 300: 2,91 € di interessi e 998,34 € di capitale.
+- Il capitale supera gli interessi solo dalla rata 64 (dopo 5 anni e 3 mesi).
+- Dopo 5 anni: pagati 60.075 €, interessi 32.716 €, capitale 27.359 € (45,5%), debito residuo 172.641 €.
+- Dopo 10 anni: pagati 120.150 €, interessi 60.207 €, capitale 59.942 €, debito residuo 140.058 €.
+- Dopo 15 anni: pagati 180.224 €, interessi 81.477 €, capitale 98.747 €, debito residuo 101.253 €.
+- Dopo 20 anni: pagati 240.299 €, interessi 95.338 €, capitale 144.961 €, debito residuo 55.039 €.
+- A fine mutuo: pagati 300.374 €, di cui 100.374 € di interessi.
+
+## 3. Rimborso anticipato: due strade
+- Esempio: dopo la rata 60 rimborsi 10.000 €.
+- Tieni la stessa rata e accorci la durata: il mutuo finisce 19 mesi prima e risparmi circa 9.580 € di interessi.
+- Tieni la stessa durata e abbassi la rata: 943,25 € al mese invece di 1.001,25 € (58 € in meno), circa 3.920 € di interessi risparmiati.
+- Per i mutui per l'acquisto o la ristrutturazione della casa stipulati da persone fisiche la banca non può chiedere penali per il rimborso anticipato (art. 120-ter del Testo unico bancario).
+
+## 4. Anticipare o investire? Le domande giuste
+- Hai un fondo emergenze di qualche mese di spese? Se no, viene prima di tutto: i soldi dati alla banca non tornano indietro.
+- Hai debiti più cari (carte revolving, prestiti personali)? Prima quelli.
+- Ogni euro restituito "rende" il tasso del mutuo, in modo certo. Confrontalo con il rendimento netto di un'alternativa e con il suo rischio.
+- Esempio con i dati del 27/11/2026: BTP a 10 anni al 4,30% lordo (Teleborsa, ore 17:46), circa 3,76% netto con la tassa del 12,5%, se tenuto fino a scadenza. Il prezzo del BTP prima della scadenza può scendere.
+- Gli interessi del mutuo prima casa possono dare diritto a una detrazione fiscale: chiedi al tuo CAF o commercialista come cambia il conto nel tuo caso.
+
+## 5. I numeri veri del mercato
+- TAEG medio dei nuovi mutui per l'acquisto della casa: 4,05% a settembre 2026, 3,99% ad agosto (Banca d'Italia, Banche e moneta del 10/11/2026).
+- Nuovi mutui con tasso variabile o fisso per al massimo 1 anno: 16,9% a settembre 2026. Gli altri, oltre 8 su 10, hanno il tasso fisso per più di un anno (stessa fonte).
+- Il TAEG comprende anche le spese: per confrontare due offerte guarda il TAEG, non solo il TAN.
+
+## 6. Checklist in 5 minuti
+- Trova il piano di ammortamento (allegato al contratto o nell'home banking).
+- Segna il debito residuo di oggi e quante rate mancano.
+- Somma la quota interessi dei prossimi 12 mesi: è il costo del tuo mutuo per l'anno prossimo.
+- Controlla il tuo TAN e confrontalo con il TAEG medio Banca d'Italia del mese più recente.
+- Se pensi di rimborsare, chiedi alla banca il conteggio esatto e scegli tra rata più bassa e durata più corta.
