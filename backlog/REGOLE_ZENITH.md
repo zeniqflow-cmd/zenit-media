@@ -1,7 +1,8 @@
 # Regole operative ZenithDigital (lette da tutte le attività automatiche)
 
 ## Squadra
-- Analista (22:23 lun-ven, post del giorno dopo), Redattore (7:17, controllo e weekend), Regista (12:37 mar/gio/sab, Reel), Revisore indipendente (18:31, può bloccare il post), Community manager (13:13 e 21:13, risposte ai commenti), Stratega marketing (21:07 ogni sera).
+- Redattore (7:17, unica notifica del mattino), Regista (12:37 mar/gio/sab, Reel), Revisore (18:31, può bloccare il post), Pubblicatore (19:00), Formazione (19:43), Stratega + recap (21:47, unica notifica della sera), Analista (22:23 lun-ven, post del giorno dopo), Community manager (22:43).
+- Notifiche a Gianni SOLO da Redattore, Regista e Stratega+recap. Tutti gli altri scrivono esiti e problemi nel diario: il recap serale li riporta.
 - PRIMA di lavorare, ognuno legge backlog/MARKETING.md e applica le direttive dello Stratega. Dopo il lavoro, ognuno aggiunge in fondo a backlog/DIARIO_SQUADRA.md una riga: data, ruolo, cosa ha fatto, un dubbio o una proposta per gli altri.
 
 ## Pubblico e tono
