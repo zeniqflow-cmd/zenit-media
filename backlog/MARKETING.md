@@ -1,5 +1,35 @@
 # Direttive dello Stratega marketing (aggiornate ogni sera)
 
+## 27/11/2026 sera – Analisi dati (Windsor, 14 post dal 16/11, follower oggi: 16)
+
+**Fatti (dati Windsor, cache letta il 27/11 alle 21:48; l'aggiornamento forzato non è nel piano)**
+- Follower 16, fermi rispetto a ieri. Obiettivo 40 entro il 3/12: mancano +24 in 6 giorni, cioè 4 al giorno. Il traguardo intermedio proposto ieri (25) chiede +9, cioè 1,5 al giorno.
+- Il carosello tredicesima è uscito alle 19:06 (Revisore OK, Pubblicatore senza errori). Nella cache: copertura 4, 12 visualizzazioni, 0 salvataggi, condivisioni e commenti. Il dato è parziale (cache di poco dopo l'uscita).
+- Il Reel tredicesima delle 21:15 non compare nella cache: non posso confermare se è uscito. L'ultimo Reel nei dati resta "costi fondo" del 23/11 (copertura 121).
+- Ultimi 5 caroselli (22-27/11): copertura media 9,8, 0 salvataggi, 0 condivisioni, 1 commento in tutto (un emoji). Prima del 22/11 i caroselli arrivavano a 13-22 persone.
+- Le condivisioni restano ferme a 52 in 14 giorni, quasi tutte su YALE (18), Fondo prima casa (16) e Manovra/busta paga (11). Nessun post dal 22/11 ne ha avuta una.
+
+**Ipotesi (con fiducia)**
+- La domanda Sì/No in seconda riga non si può ancora giudicare: nessun carosello supera le 15 persone raggiunte (fiducia alta).
+- Il calo della copertura dei caroselli viene dalla base ferma a 16 follower, non dal tema: senza Reel i caroselli parlano solo a chi ci segue già (fiducia media-alta).
+- La casa è il tema più condiviso. Il carosello mutuo di domani ha le migliori probabilità di rompere lo zero condivisioni (fiducia media, un solo post precedente).
+- Anche il traguardo di 25 al 3/12 dipende dai Reel: con soli caroselli si chiude intorno a 17-18 (fiducia media).
+
+**Direttive per i prossimi giorni**
+1. **Reel: prima si verifica, poi si scala la coda.** Community manager, alle 22:43 controlla su Windsor se c'è un REELS del 27/11 e lo scrive nel diario. Se il Reel tredicesima non è uscito, Gianni lo pubblica sabato 28/11 alle 21:15: la tredicesima arriva a dicembre e il Black Friday resta attuale per tutto il fine settimana. Poi uno ogni sera: giorni_migliori → paga_te_stesso → omino_pac → aspettare10anni → tempo_interesse.
+2. **Carosello del 28/11 (Analista, stasera): mutuo.** Gancio: "Dopo 5 anni di mutuo hai pagato 60.000 €. Quanto debito hai tolto?". Controllo dello Stratega in Python: 200.000 € a 25 anni al 3,5% fisso, rata 1.001,25 €, dopo 60 rate pagati 60.075 €, capitale restituito 27.359 € (45,5%). L'Analista ricalcola e dichiara le ipotesi (tasso di esempio, senza spese né assicurazioni). Domanda A/B in seconda riga: "Mutuo fisso o variabile? Scrivi A o B". Regalo: "Leggi il tuo piano di ammortamento (PDF)". I tassi di oggi si citano solo con fonte e data (Banca d'Italia o ABI), altrimenti non si citano.
+3. **Quando un post cambia giorno, si rigenera anche il PDF regalo** se ne cita il titolo (proposta del Revisore, adottata). Post, README dei regali e PDF devono dire la stessa cosa.
+4. **Nessun Reel nuovo del Regista finché in coda ce ne sono più di 3** (oggi 5-6). Il prossimo resta "+50% poi −50%". Intanto il Regista ricontrolla i Reel in coda: domanda Sì/No o A/B in seconda riga, 5-8 hashtag con #.
+5. **Commenti sul Reel nella prima ora: li gestisce Gianni dall'app.** Il giro Community parte dopo le 21:15 e non può rispondere in tempo (proposta del Community, adottata). Agli emoji si risponde ripetendo la domanda.
+6. **Obiettivo: Gianni sceglie entro domenica 29/11 se tenere 40 al 3/12 o passare a 25 al 3/12 e 40 entro dicembre.** Lo Stratega continua a segnare entrambi i conteggi.
+
+**Idee di temi (in ordine di priorità)**
+1. **Mutuo: "Dopo 5 anni hai pagato 60.000 €, ma il debito è sceso di 27.000 €"** (carosello 28/11, vedi direttiva 2).
+2. **"Ti promettono il 3% al mese? 5 segnali che è una truffa"** (carosello 29-30/11, dalla Formazione n. 5): ancoraggio, pensiero magico, garanzie che non coprono le perdite di mercato. Dato Consob dei siti oscurati letto direttamente su consob.it con la data (oggi i numeri del registro non concordano: 1.816 al 10/09 e 1.848 al 15/10). Domanda: "Ti è mai arrivata un'offerta così? Sì o No". Tema utile e da condividere con chi si vuole proteggere.
+3. **"Quanti mesi di spese hai da parte?"** (carosello 1-2/12): fondo emergenze in 3 livelli (3, 6, 12 mesi) su uno stipendio di esempio, collegato a Sara della tredicesima. Domanda: "Scrivi il numero dei mesi".
+
+Conteggio obiettivo: 24/11 → 15 · 25/11 → 15 · 26/11 → 16 · 27/11 → 16 (mancano 24 per 40, 9 per 25, al 3/12).
+
 ## 26/11/2026 sera – Analisi dati (Windsor, 13 post dal 16/11, follower oggi: 16)
 
 **Fatti (dati Windsor, letti il 26/11 alle 21:07)**
