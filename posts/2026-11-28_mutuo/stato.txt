@@ -1,3 +1,3 @@
-in_attesa
+pubblicato 19:06 media_id 17934563436424935
 revisionato con correzioni 18:34: spread BTP-Bund 104 -> 105 punti base (chiusura Teleborsa 27/11 ore 18:00: 105,46) su slide 7, alt e didascalia; BTP 10 anni 4,30% (Teleborsa 17:46, non trovato) -> circa 4,3% lordo / 3,8% netto con fonte Milano Finanza 27/11 ore 14:30 (4,32%) su slide 6, alt, didascalia e PDF regalo rigenerato; fonte FTSE MIB +1,89% attribuita a Money.it.
 preparato dall'Analista 27/11 sera (direttiva 2 dello Stratega: carosello mutuo, domanda A/B).
