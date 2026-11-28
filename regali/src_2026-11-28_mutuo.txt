@@ -28,7 +28,7 @@ Il regalo del post sul mutuo: le colonne del piano, i numeri di un esempio a 25 
 - Hai un fondo emergenze di qualche mese di spese? Se no, viene prima di tutto: i soldi dati alla banca non tornano indietro.
 - Hai debiti più cari (carte revolving, prestiti personali)? Prima quelli.
 - Ogni euro restituito "rende" il tasso del mutuo, in modo certo. Confrontalo con il rendimento netto di un'alternativa e con il suo rischio.
-- Esempio con i dati del 27/11/2026: BTP a 10 anni al 4,30% lordo (Teleborsa, ore 17:46), circa 3,76% netto con la tassa del 12,5%, se tenuto fino a scadenza. Il prezzo del BTP prima della scadenza può scendere.
+- Esempio con i dati del 27/11/2026: BTP a 10 anni intorno al 4,3% lordo (4,32% alle 14:30, Milano Finanza), circa 3,8% netto con la tassa del 12,5%, se tenuto fino a scadenza. Il prezzo del BTP prima della scadenza può scendere.
 - Gli interessi del mutuo prima casa possono dare diritto a una detrazione fiscale: chiedi al tuo CAF o commercialista come cambia il conto nel tuo caso.
 
 ## 5. I numeri veri del mercato

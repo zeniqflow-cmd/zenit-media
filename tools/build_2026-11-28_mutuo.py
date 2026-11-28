@@ -59,14 +59,14 @@ s.append(src(slide("La leva",
     "Stesso esempio ipotetico; calcolo con rata invariata."))
 s.append(src(slide("Anticipare o investire?",
     "Rimborsare \"rende\" il tasso del mutuo",
-    "Mutuo al 3,5%: rimborsare è un rendimento certo del 3,5%. Il 27/11 il BTP a 10 anni rendeva il 4,30% lordo (circa 3,76% netto) se tenuto a scadenza. La borsa può dare di più, senza certezze.",
+    "Mutuo al 3,5%: rimborsare è un rendimento certo del 3,5%. Il 27/11 il BTP a 10 anni rendeva circa il 4,3% lordo (circa 3,8% netto) se tenuto a scadenza. La borsa può dare di più, senza certezze.",
     5, N, box="Prima il fondo emergenze.\nPoi confronta: tasso del mutuo\ncontro rendimento netto e rischio."),
-    "Fonte: Teleborsa 27/11/2026 h 17:46. Tassa BTP 12,5%; senza detrazioni."))
+    "Fonte: Milano Finanza 27/11/2026 h 14:30 (4,32%). Tassa BTP 12,5%."))
 s.append(src(slide("I numeri veri",
     "Fisso o variabile?",
     "A settembre 2026 il TAEG medio dei nuovi mutui casa era 4,05% (3,99% ad agosto). Solo il 16,9% dei nuovi mutui aveva il tasso variabile o fisso per al massimo 1 anno: oltre 8 su 10 bloccano il tasso per più di un anno.",
-    6, N, box="Il 27/11 a Milano: FTSE MIB +1,89%\na 49.275,60 punti, spread BTP-Bund\na 104 punti base."),
-    "Fonti: Banca d'Italia, Banche e moneta (10/11/2026); Teleborsa 27/11 h 17:46"))
+    6, N, box="Il 27/11 a Milano: FTSE MIB +1,89%\na 49.275,60 punti, spread BTP-Bund\na 105 punti base."),
+    "Fonti: Banca d'Italia (10/11/2026); Teleborsa 27/11 h 18:00; Money.it"))
 
 im, d, fg = frame(7, N, True)
 y = block(d, 80, 280, "Il tuo mutuo ha un piano di ammortamento. Leggilo.", T, CREAM, 920, 1.15); y += 50
